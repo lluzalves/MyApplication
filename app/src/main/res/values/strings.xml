@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="created_by">Created by </string>
+    <string name="icons_description">animation frames container</string>
+</resources>

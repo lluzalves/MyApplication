@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animation_list_splash"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/catblack"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/broom"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/crow"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/ghost"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/bat"
+        android:duration="250" />
+</animation-list>
